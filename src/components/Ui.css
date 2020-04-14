@@ -1,0 +1,20 @@
+.MuiFormControl-root{
+    width: 50%;
+}
+
+.MuiButtonBase-root{
+   margin: 4px;
+}
+
+.MuiButtonBase-root#btn-clear{
+    width: 280px;
+ }
+
+.MuiContainer-root{
+    margin-top: 5%;
+}
+@media only screen and (max-width: 600px) {
+    .MuiFormControl-root{
+        width: 89%;
+    }
+    }
